@@ -1,1 +1,1 @@
-# JG-Discord
+# JG@Discord
